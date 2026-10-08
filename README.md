@@ -1,3 +1,4 @@
+
 # LSO KALIBER
 **Universitas Muhammadiyah Malang**
 
@@ -50,21 +51,10 @@ Whether you're learning your first command-line tool or already breaking things 
 
 📍 Universitas Muhammadiyah Malang
 
-🇮🇩 Indonesia
-
-  
-
 ---
-
-  
 
 <p  align="center">
 
-<b>LSO KALIBER</b><br>
-
-Cyber Security Student Organization<br><br>
-
-<i>Senyap dalam aksi, berjuang meraih prestasi!.</i>
-#LetsTakeARisk
+<i>Senyap dalam aksi, berjuang meraih prestasi!</i>
 
 </p>
